@@ -1,0 +1,5 @@
+{
+    "token": "OTQxMDAzNjgxNDMwNjUwOTAx.YgPn-A.witoCe7Huung29U2Q3QMbPpfuPc",
+    "prefix": "r!",
+    "mongooseConnectionString": "mongodb+srv://zinx:ghj@cluster0.dggws.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
